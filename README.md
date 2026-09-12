@@ -1,6 +1,6 @@
 # SUQUIVOS
 
-The Suquivos app was founded on March 30, 2026. Inspired by a Brazilian community trying to grow into a successful business, called Suquivos, which sold natural juices in various locations, the app itself is a store for that community, but it never reached the owner. Currently, Suquivos is not working because it requires a database for accounts, and when I created my account I used a limited plan.
+The Suquivos app was founded on **March 30, 2026**. Suquivos was inspired by a **community trying to grow into a successful company**, also called Suquivos, which sold natural juices in various locations. The app itself **is a store for this community**, but it **never reached the owner**. Currently, Suquivos **is not functioning** because it **necessarily** requires **a database for accounts**, and when I created it, I used a **limited plan**.
 
 Suquivos uses AI-generated images, but I wrote all the code myself.
 
@@ -15,7 +15,7 @@ Suquivos usa imagens feitas por IA, mas o código inteiro foi feito por mim.
 
 # ORGANIZAI
 
-The OrganizAI application was founded on June 2nd, 2026. The application was created with the goal of organizing computer files using Artificial Intelligence, to understand how AI works and how to create it.
+The OrganizAI application was founded on **June 2, 2026**. The application was created with the **goal of organizing computer files** using **Artificial Intelligence**, to understand **how it works**, **how to create** and **train an AI**.
 
 O aplicativo OrganizAI, foi fundado em **2 de Junho de 2026**, o aplicativo foi criado com o **objetivo de organizar arquivos** do computador usando **Inteligencia Artificial**, para entender **como funciona**, **como cria** e **treina uma IA**.
 
@@ -23,7 +23,7 @@ O aplicativo OrganizAI, foi fundado em **2 de Junho de 2026**, o aplicativo foi 
 
 # CALENDAR CALCULATOR
 
-The Calendar Calculator application (Original name: CDD) was founded in early 2026, on February 22nd. The theme was something simple to practice programming; the application's objective is to calculate the number of days from date to date, both how many days have passed since a certain day and since another.
+The Calendar Calculator app (Original name: CDD) was founded at **early 2026, on February 22nd**. The theme was something **simple** for practicing programming; the app's objective is to **calculate days from date to date**, both **how many days have passed since a certain day**, or **how many days have passed since a certain date until today**.
 
 O aplicativo Calculador de calendário (Nome original: CDD), foi fundado no **inicio de 2026, em 22 de Fevereiro**, o tema foi algo **simples** para praticar na programação, o objetivo do aplicativo é **calcular dias de data para data**, tanto de **quantos dias passaram de um certo dia**, ou **quantos passaram de uma data até hoje**.
 
@@ -32,7 +32,7 @@ O aplicativo Calculador de calendário (Nome original: CDD), foi fundado no **in
 
 # DONATION SYSTEM
 
-The donation system app, founded on April 25th, 2026, doesn't yet have a specific name as it's a test application. I created this app with the goal of making a real payment system using Stripe, but it's not complete because I was under 18 at the time, which is why it became a donation system, as it only has a PIX link.
+The donation system app, founded on **April 25, 2026**, the app still **doesn't have a specific name**, as it's a **test app**. I created this app with the **goal of making a real payment system** using **Stripe**, but it's not complete because **I was a minor** at the time, which is why it became a **donation system**, since it only has a **PIX link**.
 
 O aplicativo sistema de doação, fundando em **25 de Abril de 2026**, o aplicativo ainda **não há um nome específico**, pois é uma **aplicativo teste**, eu criei esse aplicativo com o **objetivo de fazer um sistema de cobraça real** usando **Stripe**, mas não está completo pelo fato de **eu ser de menor** naquele momento, por isso virou **sistema de doação**, pois só há **link de PIX**.
 
