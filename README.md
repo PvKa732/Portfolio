@@ -4,7 +4,7 @@ The Suquivos app was founded on **March 30, 2026**. Suquivos was inspired by a *
 
 Suquivos uses AI-generated images, but I wrote all the code myself.
 
-—————————————————————————————————————————————————————————————————————
+———————————————————
 
 O aplicativo Suquivos, foi fundado em **30 de Março de 2026**, a Suquivos foi inspirado em uma **comunidade tentando crescer até ser uma empresa de sucesso**, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, **é uma loja para essa comunidade**, mas **nunca chegou até o dono**. No momento, a Suquivos **não está funcionando**, pois **obrigatóriamente** deve **haver um banco de dados para contas**, quando criei eu usei **plano limitado**.
 
