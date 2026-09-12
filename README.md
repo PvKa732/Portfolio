@@ -1,8 +1,8 @@
 # SUQUIVOS
 
-The Suquivos app was founded on March 30, 2026. Inspired by a Brazilian community trying to grow into a successful business, called Suquivos, which sold natural juices in various locations, the app itself is a store for that community, but it never reached the owner.
+The Suquivos app was founded on March 30, 2026. Inspired by a Brazilian community trying to grow into a successful business, called Suquivos, which sold natural juices in various locations, the app itself is a store for that community, but it never reached the owner. Currently, Suquivos is not working because it requires a database for accounts, and when I created my account I used a limited plan.
 
-O aplicativo Suquivos, foi fundado em 30 de Março, em 2026, a Suquivos foi inspirado em uma comunidade tentando crescer até ser uma empresa de sucesso, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, é uma loja para essa comunidade, mas nunca chegou até o dono. 
+O aplicativo Suquivos, foi fundado em 30 de Março, em 2026, a Suquivos foi inspirado em uma comunidade tentando crescer até ser uma empresa de sucesso, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, é uma loja para essa comunidade, mas nunca chegou até o dono. No momento, a Suquivos não está funcionando, pois obrigatóriamente deve haver um banco de dados para contas, quando criei eu usei plano limitado.
 
 <img width="834" height="592" alt="suquivos1" src="https://github.com/user-attachments/assets/301566c0-2129-4c6f-8323-3fba5c06080c" />
 <img width="836" height="591" alt="suquivos_login" src="https://github.com/user-attachments/assets/d5fd55fc-e04d-4784-8b9c-3fb9e870bc78" />
