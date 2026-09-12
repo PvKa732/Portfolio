@@ -26,9 +26,9 @@ O aplicativo Calculador de calendário (Nome original: CDD), foi fundado no inic
 
 # DONATION SYSTEM
 
-The donation system app, founded on April 25th, 2026, doesn't yet have a specific name as it's a test application. I created this app with the goal of making a real payment system, but it's not complete because I was under 18 at the time, so it became a donation system, as it only has a PIX link.
+The donation system app, founded on April 25th, 2026, doesn't yet have a specific name as it's a test application. I created this app with the goal of making a real payment system using Stripe, but it's not complete because I was under 18 at the time, which is why it became a donation system, as it only has a PIX link.
 
-O aplicativo sistema de doação, fundando em 25 de Abril, em 2026, o aplicativo ainda não há um nome específico, pois é uma aplicativo teste, eu criei esse aplicativo com o objetivo de fazer um sistema de cobraça real, mas não está completo pelo fato de eu ser menor de 18 anos no dia, por isso virou sistema de doação, pois só há link de PIX.
+O aplicativo sistema de doação, fundando em 25 de Abril, em 2026, o aplicativo ainda não há um nome específico, pois é uma aplicativo teste, eu criei esse aplicativo com o objetivo de fazer um sistema de cobraça real usando Stripe, mas não está completo pelo fato de eu ser menor de 18 anos naquele momento, por isso virou sistema de doação, pois só há link de PIX.
 
 <img width="10800" height="7200" alt="preco2" src="https://github.com/user-attachments/assets/b8bff1be-3d73-45b1-a949-ec34870b1836" />
 <img width="6000" height="4000" alt="preco1" src="https://github.com/user-attachments/assets/4a19c127-cb0d-4cef-bc37-b18e1fa3c5ad" />
