@@ -2,16 +2,13 @@
 
 <img width="834" height="592" alt="suquivos1" src="https://github.com/user-attachments/assets/301566c0-2129-4c6f-8323-3fba5c06080c" />
 <img width="836" height="591" alt="suquivos_login" src="https://github.com/user-attachments/assets/d5fd55fc-e04d-4784-8b9c-3fb9e870bc78" />
-/-------------------------
 # ORGANIZAI
 
 <img width="782" height="558" alt="organizai" src="https://github.com/user-attachments/assets/f2acee53-ae09-444b-a693-9c36db2f4997" />
-/-------------------------
 # CALCULADOR DE CALEDARIO
 
 <img width="828" height="548" alt="CCD1" src="https://github.com/user-attachments/assets/a1c3c970-3375-4ff8-b254-7bb40300e415" />
 <img width="510" height="1148" alt="CCDAPK" src="https://github.com/user-attachments/assets/04175f3f-3418-4bdb-9e39-7bbd7d738c95" />
-/-------------------------
 # SISTEMA DE DOAÇÃO
 
 <img width="10800" height="7200" alt="preco2" src="https://github.com/user-attachments/assets/b8bff1be-3d73-45b1-a949-ec34870b1836" />
