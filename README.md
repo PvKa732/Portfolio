@@ -1,15 +1,34 @@
 # SUQUIVOS
 
+The Suquivos app was founded on March 30, 2026. Inspired by a Brazilian community trying to grow into a successful business, called Suquivos, which sold natural juices in various locations, the app itself is a store for that community, but it never reached the owner.
+
+O aplicativo Suquivos, foi fundado em 30 de Março, em 2026, a Suquivos foi inspirado em uma comunidade tentando crescer até ser uma empresa de sucesso, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, é uma loja para essa comunidade, mas nunca chegou até o dono. 
+
 <img width="834" height="592" alt="suquivos1" src="https://github.com/user-attachments/assets/301566c0-2129-4c6f-8323-3fba5c06080c" />
 <img width="836" height="591" alt="suquivos_login" src="https://github.com/user-attachments/assets/d5fd55fc-e04d-4784-8b9c-3fb9e870bc78" />
+
 # ORGANIZAI
 
+The OrganizAI application was founded on June 2nd, 2026. The application was created with the goal of organizing computer files using Artificial Intelligence, to understand how AI works and how to create it.
+
+O aplicativo OrganizAI, foi fundado em 2 de Junho, em 2026, o aplicativo foi criado com o objetivo de organizar arquivos do computador usando Inteligencia Artificial, para entender como funciona e como cria uma IA.
+
 <img width="782" height="558" alt="organizai" src="https://github.com/user-attachments/assets/f2acee53-ae09-444b-a693-9c36db2f4997" />
-# CALCULADOR DE CALEDARIO
+
+# CALENDAR CALCULATOR
+
+The Calendar Calculator application (Original name: CDD) was founded in early 2026, on February 22nd. The theme was something simple to practice programming; the application's objective is to calculate the number of days from date to date, both how many days have passed since a certain day and since another.
+
+O aplicativo Calculador de calendário (Nome original: CDD), foi fundado no inicio de 2026, em 22 de Fevereiro, o tema foi algo simples para praticar na programação, o objetivo do aplicativo é calcular dias de data para data, tanto de quantos dias passaram de um certo dia, e de um outro.
 
 <img width="828" height="548" alt="CCD1" src="https://github.com/user-attachments/assets/a1c3c970-3375-4ff8-b254-7bb40300e415" />
 <img width="510" height="1148" alt="CCDAPK" src="https://github.com/user-attachments/assets/04175f3f-3418-4bdb-9e39-7bbd7d738c95" />
-# SISTEMA DE DOAÇÃO
+
+# DONATION SYSTEM
+
+The donation system app, founded on April 25th, 2026, doesn't yet have a specific name as it's a test application. I created this app with the goal of making a real payment system, but it's not complete because I was under 18 at the time, so it became a donation system, as it only has a PIX link.
+
+O aplicativo sistema de doação, fundando em 25 de Abril, em 2026, o aplicativo ainda não há um nome específico, pois é uma aplicativo teste, eu criei esse aplicativo com o objetivo de fazer um sistema de cobraça real, mas não está completo pelo fato de eu ser menor de 18 anos no dia, por isso virou sistema de doação, pois só há link de PIX.
 
 <img width="10800" height="7200" alt="preco2" src="https://github.com/user-attachments/assets/b8bff1be-3d73-45b1-a949-ec34870b1836" />
 <img width="6000" height="4000" alt="preco1" src="https://github.com/user-attachments/assets/4a19c127-cb0d-4cef-bc37-b18e1fa3c5ad" />
