@@ -1,6 +1,6 @@
 # SUQUIVOS
 
-O aplicativo Suquivos, foi fundado em **30 de Março de 2026**, a Suquivos foi inspirado em uma **comunidade tentando crescer até ser uma empresa de sucesso**, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, **é uma loja para essa comunidade**, mas **nunca chegou até o dono**. No momento, a Suquivos **não está funcionando**, pois **obrigatóriamente** deve **haver um banco de dados para contas**, quando criei eu usei **plano limitado**.
+O aplicativo Suquivos, foi fundado em **30 de Março de 2026**, a Suquivos foi inspirado em uma comunidade tentando crescer até ser uma empresa de sucesso, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, **é uma loja para essa comunidade**, mas nunca chegou até o dono. No momento, a Suquivos não está funcionando, pois obrigatóriamente deve haver um banco de dados para contas, que quando criei eu usei plano limitado.
 
 Suquivos usa imagens feitas por IA, mas o código inteiro foi feito por mim.
 
@@ -9,7 +9,7 @@ Suquivos usa imagens feitas por IA, mas o código inteiro foi feito por mim.
 
 # ORGANIZAI
 
-O aplicativo OrganizAI, foi fundado em **2 de Junho de 2026**, o aplicativo foi criado com o **objetivo de organizar arquivos** do computador usando **Inteligencia Artificial**, para entender **como funciona**, **como cria** e **treina uma IA**.
+O aplicativo OrganizAI, foi fundado em **2 de Junho de 2026**, o aplicativo foi criado com o **objetivo de organizar arquivos** do computador usando Inteligencia Artificial, para entender como funciona, como cria e treina uma IA.
 
 <img width="782" height="558" alt="organizai" src="https://github.com/user-attachments/assets/f2acee53-ae09-444b-a693-9c36db2f4997" />
 
@@ -21,7 +21,7 @@ O aplicativo Calculador de calendário (Nome original: CDD), foi fundado no **in
 <img width="510" height="1148" alt="CCDAPK" src="https://github.com/user-attachments/assets/04175f3f-3418-4bdb-9e39-7bbd7d738c95" />
 
 # DONATION SYSTEM
-O aplicativo Donation System, fundando em **25 de Abril de 2026**, o aplicativo ainda **não há um nome específico**, pois é uma **aplicativo teste**, eu criei esse aplicativo com o **objetivo de fazer um sistema de cobraça real** usando **Stripe**, mas não está completo pelo fato de **eu ser de menor** naquele momento, por isso virou **sistema de doação**, pois só há **link de PIX**.
+O aplicativo Donation System, fundando em **25 de Abril de 2026**, o aplicativo ainda não há um nome específico pois é uma aplicativo teste, eu criei esse aplicativo com o **objetivo de fazer um sistema de cobrança real** usando Stripe, mas não está completo pelo fato de eu ser de menor, por isso virou sistema de doação, pois só há link de PIX.
 
 <img width="10800" height="7200" alt="preco2" src="https://github.com/user-attachments/assets/b8bff1be-3d73-45b1-a949-ec34870b1836" />
 <img width="6000" height="4000" alt="preco1" src="https://github.com/user-attachments/assets/4a19c127-cb0d-4cef-bc37-b18e1fa3c5ad" />
