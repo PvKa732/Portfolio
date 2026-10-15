@@ -5,6 +5,9 @@ O aplicativo Suquivos, foi fundado em **30 de Março de 2026**, a Suquivos foi i
 Suquivos usa imagens feitas por IA, mas o código inteiro foi feito por mim.
 
 <img width="834" height="592" alt="suquivos1" src="https://github.com/user-attachments/assets/301566c0-2129-4c6f-8323-3fba5c06080c" />
+<img width="995" height="704" alt="image" src="https://github.com/user-attachments/assets/b371641a-9dde-475f-8103-37c205412937" />
+<img width="995" height="704" alt="image" src="https://github.com/user-attachments/assets/2af68705-1324-42b4-8675-fab10183c75c" />
+<img width="993" height="707" alt="image" src="https://github.com/user-attachments/assets/2e9de396-c773-4a1b-86d2-9a56b5a94f28" />
 <img width="836" height="591" alt="suquivos_login" src="https://github.com/user-attachments/assets/d5fd55fc-e04d-4784-8b9c-3fb9e870bc78" />
 
 # ORGANIZAI
