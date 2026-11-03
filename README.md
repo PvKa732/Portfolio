@@ -16,16 +16,17 @@ O aplicativo OrganizAI, foi fundado em **2 de Junho de 2026**, o aplicativo foi 
 
 <img width="782" height="558" alt="organizai" src="https://github.com/user-attachments/assets/f2acee53-ae09-444b-a693-9c36db2f4997" />
 
-# CALENDAR CALCULATOR
+# CDD
 
-O aplicativo Calculador de calendário (Nome original: CDD), foi fundado no **inicio de 2026, em 22 de Fevereiro**, o tema foi algo **simples** para praticar na programação, o objetivo do aplicativo é **calcular dias de data para data**, tanto de **quantos dias passaram de um certo dia**, ou **quantos passaram de uma data até hoje**.
+O aplicativo CDD (Nome original: Calculador de calendário), foi fundado no **inicio de 2026, em 22 de Fevereiro**, o tema foi algo **simples** para praticar na programação, o objetivo do aplicativo é **calcular dias de data para data**, tanto de **quantos dias passaram para um certo dia**, ou **quantos passaram de uma data até hoje**.
 
 <img width="828" height="548" alt="CCD1" src="https://github.com/user-attachments/assets/a1c3c970-3375-4ff8-b254-7bb40300e415" />
 <img width="510" height="1148" alt="CCDAPK" src="https://github.com/user-attachments/assets/04175f3f-3418-4bdb-9e39-7bbd7d738c95" />
 
-# DONATION SYSTEM
-O aplicativo Donation System, fundando em **25 de Abril de 2026**, o aplicativo ainda não há um nome específico pois é uma aplicativo teste, eu criei esse aplicativo com o **objetivo de fazer um sistema de cobrança real** usando Stripe, mas não está completo pelo fato de eu ser de menor, por isso virou sistema de doação, pois só há link de PIX.
+# DONATION SYSTEM 
+O aplicativo Donation System, fundando em **25 de Abril de 2026**, foi criado originalmente com **objetivo de fazer um sistema de cobrança real** usando Stripe, mas o sistema principal não foi criado por causa da restrição de idade, sendo substituído por link de PIX, e virando sistema de doação.
 
+Imagens do design criado no photoshop
 <img width="10800" height="7200" alt="preco2" src="https://github.com/user-attachments/assets/b8bff1be-3d73-45b1-a949-ec34870b1836" />
 <img width="6000" height="4000" alt="preco1" src="https://github.com/user-attachments/assets/4a19c127-cb0d-4cef-bc37-b18e1fa3c5ad" />
 <img width="3300" height="5100" alt="preco_apk" src="https://github.com/user-attachments/assets/e0efddaa-1c6c-41d7-b20d-53f737918d85" />
