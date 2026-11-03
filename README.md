@@ -1,6 +1,6 @@
 # SUQUIVOS
 
-O aplicativo Suquivos, foi fundado em **30 de Março de 2026**, a Suquivos foi inspirado em uma comunidade tentando crescer até ser uma empresa de sucesso, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, **é uma loja para essa comunidade**, mas nunca chegou até o dono. No momento, a Suquivos não está funcionando, pois obrigatóriamente deve haver um banco de dados para contas, que quando criei eu usei plano limitado.
+O aplicativo Suquivos, foi fundado em **30 de Março de 2026**, a Suquivos foi inspirado em uma comunidade tentando crescer até ser uma empresa de sucesso, chamado exatamente Suquivos, onde vendia sucos naturais em diversos lugares, o aplicativo em si, **é uma loja para essa comunidade**, mas nunca chegou até o dono. No momento, o Aplicativo Suquivos, não está funcionando, pois obrigatóriamente deve haver um banco de dados para guardar as informações das contas.
 
 Suquivos usa imagens feitas por IA, mas o código inteiro foi feito por mim.
 
